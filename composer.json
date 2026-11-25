@@ -41,7 +41,7 @@
         "symfony/routing": "^8.2",
         "symfony/translation-contracts": "^3.8",
         "symfony/uid": "^8.2",
-        "twig/twig": "^3.31"
+        "twig/twig": "^3.31.1"
     },
     "require-dev": {
         "ext-zlib": "*",
@@ -80,7 +80,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "0.2.x-dev"
+            "dev-main": "0.3.x-dev"
         }
     }
 }
